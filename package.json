@@ -1,0 +1,21 @@
+{
+  "name": "react-app",
+  "private": true,
+  "dependencies": {
+    "@rails/webpacker": "3.5",
+    "axios": "^0.18.0",
+    "babel-core": "^6.25.0",
+    "babel-preset-react": "^6.16.0",
+    "meow": "^3.7.0",
+    "react": "^15.3.2",
+    "react-dom": "^15.3.2"
+  },
+  "devDependencies": {
+    "babel-core": "^6.25.0",
+    "babel-preset-react": "^6.16.0",
+    "meow": "^3.7.0",
+    "react": "^15.3.2",
+    "react-dom": "^15.3.2",
+    "webpack-dev-server": "2.11.2"
+  }
+}
